@@ -1,0 +1,17 @@
+F:\CR\Chayanika latest\Chayanika\CRT_Core\bin\Release\net5.0\CRT_Core.deps.json
+F:\CR\Chayanika latest\Chayanika\CRT_Core\bin\Release\net5.0\CRT_Core.dll
+F:\CR\Chayanika latest\Chayanika\CRT_Core\bin\Release\net5.0\ref\CRT_Core.dll
+F:\CR\Chayanika latest\Chayanika\CRT_Core\bin\Release\net5.0\CRT_Core.pdb
+F:\CR\Chayanika latest\Chayanika\CRT_Core\bin\Release\net5.0\CRT_Data.dll
+F:\CR\Chayanika latest\Chayanika\CRT_Core\bin\Release\net5.0\CRT_Entity.dll
+F:\CR\Chayanika latest\Chayanika\CRT_Core\bin\Release\net5.0\CRT_Data.pdb
+F:\CR\Chayanika latest\Chayanika\CRT_Core\bin\Release\net5.0\CRT_Entity.pdb
+F:\CR\Chayanika latest\Chayanika\CRT_Core\obj\Release\net5.0\CRT_Core.csproj.AssemblyReference.cache
+F:\CR\Chayanika latest\Chayanika\CRT_Core\obj\Release\net5.0\CRT_Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\CR\Chayanika latest\Chayanika\CRT_Core\obj\Release\net5.0\CRT_Core.AssemblyInfoInputs.cache
+F:\CR\Chayanika latest\Chayanika\CRT_Core\obj\Release\net5.0\CRT_Core.AssemblyInfo.cs
+F:\CR\Chayanika latest\Chayanika\CRT_Core\obj\Release\net5.0\CRT_Core.csproj.CoreCompileInputs.cache
+F:\CR\Chayanika latest\Chayanika\CRT_Core\obj\Release\net5.0\CRT_Core.csproj.CopyComplete
+F:\CR\Chayanika latest\Chayanika\CRT_Core\obj\Release\net5.0\CRT_Core.dll
+F:\CR\Chayanika latest\Chayanika\CRT_Core\obj\Release\net5.0\ref\CRT_Core.dll
+F:\CR\Chayanika latest\Chayanika\CRT_Core\obj\Release\net5.0\CRT_Core.pdb

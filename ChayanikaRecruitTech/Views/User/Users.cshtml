@@ -1,0 +1,118 @@
+﻿@{
+    ViewData["Title"] = "Home";
+    Layout = "";
+}
+
+@*<script src="~/js/rec.js"></script>*@
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="~/DataTableFiles/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css">
+<link href="~/DataTableFiles/css/buttons.dataTables.min.css" rel="stylesheet" />
+<link href="~/DataTableFiles/css/colReorder.dataTables.min.css" rel="stylesheet" />
+<link href="~/DataTableFiles/css/jquery.dataTables.css" rel="stylesheet" />
+<script src="~/DataTableFiles/js/jquery.dataTables.js"></script>
+@*<script src="~/DataTableFiles/js/jquery-1.12.0.min.js"></script>*@
+<script src="~/DataTableFiles/js/jquery.dataTables.min.js"></script>
+<script src="~/DataTableFiles/js/dataTables.colReorder.min.js"></script>
+<script src="~/DataTableFiles/js/buttons.colVis.min.js"></script>
+<script src="~/DataTableFiles/js/buttons.flash.min.js"></script>
+<script src="~/DataTableFiles/js/jszip.min.js"></script>
+<script src="~/DataTableFiles/js/pdfmake.min.js"></script>
+<script src="~/DataTableFiles/js/vfs_fonts.js"></script>
+<script src="~/DataTableFiles/js/buttons.html5.min.js"></script>
+<script src="~/DataTableFiles/js/buttons.print.min.js"></script>
+<script src="~/DataTableFiles/js/dataTables.buttons.min.js"></script>
+<link href="~/css/bootstrap.css" rel="stylesheet" />
+<link href="~/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/css/popup.css" rel="stylesheet" />
+<link href="~/css/commonstyle.css" rel="stylesheet" />
+<script src="~/crtscripts/usersacc.js"></script>
+
+<div class="maindiv">
+    <a class="btn_white" onclick="openbtn();">Add</a>
+</div>
+<table id="tblEnquiry" class="display" style="width:100%;">
+    <thead>
+        <tr>
+            <td>Sn#</td>
+            <td>Edit</td>
+            <td>Delete</td>
+            <td>AccountStatus</td>
+            <td>AccessCredential</td>
+            @*<td>Edid</td>*@
+            <td>UserName</td>
+            <td>Password</td>
+            <td>CreatedBy</td>
+            <td>CreatedDate</td>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+<div id="popup1" class="overlay">
+    <div class="popup" style="max-width: 95%;">
+        <h2>Recruitment Form</h2>
+        <i class="fa fa-times-circle faclose" onclick="closebtn();"></i>
+        <div class="content">
+            <input type="hidden" value="0" id="UserRId" />
+            <div class="popup-form">
+                <div>
+
+                    <div class="col-md-4 col-6">
+
+                        <input type="text" name="UserName" id="UserName" value="" placeholder="Enter New UserID" class="input-field" />
+                    </div>
+
+                    <div class=" col-md-4 col-6">
+
+                        <input type="text" name="Password" id="Password" value="" placeholder="Enter New Password" class="input-field" />
+                    </div>
+
+                    <div class=" col-md-4 col-6">
+
+                        
+                                <div class="checkboxes input-field">
+                                    <input id="isactive" class="ckb ckb-primary" type="checkbox"  />
+                                    <label for="ckb0">Active/DeActive Admin</label>
+                                     
+                                </div>
+                           
+                    </div>
+
+                    <div class=" col-md-4 col-6">
+
+                        <select name="rollid" id="rollid" class="input-field">
+                            
+                        </select>
+                    </div>
+                    
+    
+                    <div class=" col-md-4 col-6">
+                    </div>
+
+                    <div class=" col-md-4 col-6">
+                        <input type="button" name="submit" value="Submit" class="btn btn-success" style="width: 47% !important;" onclick="NewAdmin();" />
+                        <input type="button" name="submit" value="Cancel" class="btn delbtn" style="width: 47% !important;" />
+
+                    </div>
+                    <div class=" col-md-4 col-6">
+                    </div>
+                </div>
+
+            </div>
+
+
+
+        </div>
+    </div>
+
+
+</div>
+
+@*<h1>Demo</h1>
+<input type="hidden" id="bookid" name="bookid" value="0" />
+<input type="text" id="bookname" name="bookname" />
+<input type="file" accept="application/msword, application/pdf, image/*" id="bfile" name="bfile" />
+
+<input type="button" class="btn btn-success" value="upload" onclick="doc();" />
+<input type="button" class="btn btn-success" value="Submit" onclick="save();" />*@

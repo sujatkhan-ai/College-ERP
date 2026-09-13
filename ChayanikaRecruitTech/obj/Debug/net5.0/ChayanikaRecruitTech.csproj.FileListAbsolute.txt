@@ -1,0 +1,516 @@
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\appsettings.Development.json
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\appsettings.json
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.exe
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.deps.json
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.runtimeconfig.json
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.runtimeconfig.dev.json
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.pdb
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.Views.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.Views.pdb
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Humanizer.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.EntityFrameworkCore.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.DynamicLinq.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Core.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Data.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Entity.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Core.pdb
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Data.pdb
+D:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Entity.pdb
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.csproj.AssemblyReference.cache
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.GeneratedMSBuildEditorConfig.editorconfig
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.AssemblyInfoInputs.cache
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.AssemblyInfo.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.csproj.CoreCompileInputs.cache
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.MvcApplicationPartsAssemblyInfo.cache
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorAssemblyInfo.cache
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorAssemblyInfo.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\scopedcss\bundle\ChayanikaRecruitTech.styles.css
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\staticwebassets\ChayanikaRecruitTech.StaticWebAssets.Manifest.cache
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.TagHelpers.input.cache
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.TagHelpers.output.cache
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorCoreGenerate.cache
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Recruit\Recruiters.cshtml.g.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Menus.cshtml.g.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Panel.cshtml.g.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Users.cshtml.g.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorTargetAssemblyInfo.cache
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorTargetAssemblyInfo.cs
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.Views.pdb
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.csproj.CopyComplete
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\refint\ChayanikaRecruitTech.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.pdb
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.genruntimeconfig.cache
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ref\ChayanikaRecruitTech.dll
+D:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Home.cshtml.g.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\appsettings.Development.json
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\appsettings.json
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.exe
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.deps.json
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.runtimeconfig.json
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.runtimeconfig.dev.json
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ref\ChayanikaRecruitTech.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.pdb
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.Views.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.Views.pdb
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.AspNetCore.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.AspNetCore.Mvc.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.Core.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.Data.Integrity.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.Diagnostics.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.Extensions.AspNetCore.Mvc.Formatters.Newtonsoft.Json.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.Extensions.Newtonsoft.Json.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.IO.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.Security.Cryptography.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.Threading.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Humanizer.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.EntityFrameworkCore.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.DynamicLinq.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\NuGet.Frameworks.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Core.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Data.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Entity.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Core.pdb
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Data.pdb
+E:\CORE\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Entity.pdb
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.csproj.AssemblyReference.cache
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.GeneratedMSBuildEditorConfig.editorconfig
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.AssemblyInfoInputs.cache
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.AssemblyInfo.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.csproj.CoreCompileInputs.cache
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.MvcApplicationPartsAssemblyInfo.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.MvcApplicationPartsAssemblyInfo.cache
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorAssemblyInfo.cache
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorAssemblyInfo.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\staticwebassets\ChayanikaRecruitTech.StaticWebAssets.Manifest.cache
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\staticwebassets\ChayanikaRecruitTech.StaticWebAssets.xml
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\scopedcss\bundle\ChayanikaRecruitTech.styles.css
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.TagHelpers.input.cache
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.TagHelpers.output.cache
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorCoreGenerate.cache
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Recruit\Recruiters.cshtml.g.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Home.cshtml.g.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Menus.cshtml.g.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Panel.cshtml.g.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Users.cshtml.g.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorTargetAssemblyInfo.cache
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorTargetAssemblyInfo.cs
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.Views.pdb
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.csproj.CopyComplete
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ref\ChayanikaRecruitTech.dll
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.pdb
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.genruntimeconfig.cache
+E:\CORE\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Recruit\Vacancies.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.csproj.AssemblyReference.cache
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.GeneratedMSBuildEditorConfig.editorconfig
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.AssemblyInfoInputs.cache
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.AssemblyInfo.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.csproj.CoreCompileInputs.cache
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.MvcApplicationPartsAssemblyInfo.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.MvcApplicationPartsAssemblyInfo.cache
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorAssemblyInfo.cache
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorAssemblyInfo.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ref\ChayanikaRecruitTech.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.pdb
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\appsettings.Development.json
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\appsettings.json
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.exe
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.deps.json
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.runtimeconfig.json
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.runtimeconfig.dev.json
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ref\ChayanikaRecruitTech.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.pdb
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.Views.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ChayanikaRecruitTech.Views.pdb
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.AspNetCore.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.AspNetCore.Mvc.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.Core.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.Data.Integrity.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.Diagnostics.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.Extensions.AspNetCore.Mvc.Formatters.Newtonsoft.Json.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.Extensions.Newtonsoft.Json.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.IO.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.Security.Cryptography.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Cuemon.Threading.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Humanizer.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.DataProtection.EntityFrameworkCore.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.DynamicLinq.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\NuGet.Frameworks.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Core.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Data.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Entity.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Core.pdb
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Data.pdb
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\CRT_Entity.pdb
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\staticwebassets\ChayanikaRecruitTech.StaticWebAssets.Manifest.cache
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\staticwebassets\ChayanikaRecruitTech.StaticWebAssets.xml
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\scopedcss\bundle\ChayanikaRecruitTech.styles.css
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.TagHelpers.input.cache
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.TagHelpers.output.cache
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorCoreGenerate.cache
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Recruit\Recruiters.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Recruit\Vacancies.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Home.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Menus.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Panel.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\User\Users.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorTargetAssemblyInfo.cache
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.RazorTargetAssemblyInfo.cs
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.Views.pdb
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.csproj.CopyComplete
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\obj\Debug\net5.0\ChayanikaRecruitTech.genruntimeconfig.cache
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Web.Mvc.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Web.Razor.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Web.Helpers.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\System.Web.WebPages.dll
+F:\CR\Chayanika latest\Chayanika\ChayanikaRecruitTech\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll

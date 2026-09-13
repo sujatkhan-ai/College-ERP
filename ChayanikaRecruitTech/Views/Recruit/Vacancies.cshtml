@@ -1,0 +1,132 @@
+﻿@{
+    ViewData["Title"] = "Vacancies";
+    Layout = "";
+}
+
+@*<script src="~/js/rec.js"></script>*@
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="~/DataTableFiles/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css">
+<link href="~/DataTableFiles/css/buttons.dataTables.min.css" rel="stylesheet" />
+<link href="~/DataTableFiles/css/colReorder.dataTables.min.css" rel="stylesheet" />
+<link href="~/DataTableFiles/css/jquery.dataTables.css" rel="stylesheet" />
+<script src="~/DataTableFiles/js/jquery.dataTables.js"></script>
+@*<script src="~/DataTableFiles/js/jquery-1.12.0.min.js"></script>*@
+<script src="~/DataTableFiles/js/jquery.dataTables.min.js"></script>
+<script src="~/DataTableFiles/js/dataTables.colReorder.min.js"></script>
+<script src="~/DataTableFiles/js/buttons.colVis.min.js"></script>
+<script src="~/DataTableFiles/js/buttons.flash.min.js"></script>
+<script src="~/DataTableFiles/js/jszip.min.js"></script>
+<script src="~/DataTableFiles/js/pdfmake.min.js"></script>
+<script src="~/DataTableFiles/js/vfs_fonts.js"></script>
+<script src="~/DataTableFiles/js/buttons.html5.min.js"></script>
+<script src="~/DataTableFiles/js/buttons.print.min.js"></script>
+<script src="~/DataTableFiles/js/dataTables.buttons.min.js"></script> 
+<script src="~/CRTScripts/JobPost.js"></script>
+<link href="~/css/bootstrap.css" rel="stylesheet" />
+<link href="~/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/css/popup.css" rel="stylesheet" />
+<link href="~/css/commonstyle.css" rel="stylesheet" />
+<style>
+     .col-md-8 {
+        padding: 10px !important;
+    }
+    .col-md-6, .col-md-8 {
+        padding: 10px !important;
+    }
+</style>
+ 
+<div class="maindiv">
+    <a class="btn_white" onclick="openbtn();">Add</a>
+</div>
+<table id="tblEnquiry" class="display" style="width:100%;">
+    <thead>
+        <tr>
+            <td>Sn#</td>
+            <td>Edit</td>
+            <td>Delete</td>
+            @*<td>Edid</td>*@
+            <td>Jobs</td>
+            <td>Experience</td>
+            <td>Job Location</td>
+            <td>Job Type</td>
+            <td>Skills</td>
+            <td>Description</td>
+            <td>Description2</td> 
+            <td>Post Date</td>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+<div id="popup1" class="overlay">
+    <div class="popup" style="max-width: 95%;">
+        <h2>Vacancies Form</h2>
+        <i class="fa fa-times-circle faclose" onclick="closebtn();"></i>
+        <div class="content">
+            <input type="hidden" value="0" id="jobPid" />
+            <div class="popup-form">
+                <div class="row">
+
+                    <div class="col-md-4 col-6">
+
+                        <input type="text" name="jobTitle" id="jobTitle" value="" placeholder="Job Title" class="input-field" />
+                    </div>
+
+                    <div class=" col-md-4 col-6">
+
+                        <input type="text" name="jobExp" id="jobExp" value="" placeholder="Job Experience" class="input-field" />
+                    </div>
+
+                    <div class=" col-md-4 col-6">
+
+                        <input type="text" name="jobLocation" id="jobLocation" value="" placeholder="Job Location" class="input-field" />
+                    </div>
+
+                    <div class=" col-md-4 col-6">
+
+                        <select name="jobType" id="jobType" class="input-field">
+                            <option value="0">Select Job Type</option>
+                            <option value="Work From Home">Work From Home</option>
+                            <option value="Work From Office">Work From Office</option>
+                        </select>
+                    </div>
+                    <div class="col-md-8 col-6">
+
+                        <input type="text" name="jobSkills" id="jobSkills" value="" placeholder="Job Skills" class="input-field" />
+
+                    </div>
+         
+                        <div class="col-md-6 col-12">
+                            <textarea id="jobDescription" cols="5" rows="5" placeholder="Job Description 1" class="input-field" style="resize:none;height:30%;"></textarea>
+                        </div>
+                        <div class=" col-md-6 col-12">
+                            <textarea id="Remarks" cols="5" rows="5" placeholder="Job Description 2" class="input-field" style="resize: none; height: 30%;"></textarea>
+                        </div>
+                  
+                  
+                    <div class=" col-md-4 col-6">
+
+                    </div>
+                    <div class=" col-md-4 col-6">
+                    </div>
+
+                    <div class=" col-md-4 col-6">
+                        <input type="button" name="submit" value="Submit" class="btn btn-success" style="width: 47% !important;" onclick="empsave();" />
+                        <input type="button" name="submit" value="Cancel" class="btn delbtn" style="width: 47% !important;" />
+
+                    </div>
+                    <div class=" col-md-4 col-6">
+                    </div>
+                </div>
+
+                </div>
+
+
+
+        </div>
+    </div>
+
+
+</div>
+

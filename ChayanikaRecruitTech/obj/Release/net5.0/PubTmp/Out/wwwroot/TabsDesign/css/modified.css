@@ -1,0 +1,14 @@
+﻿
+
+.app-main .app-main__inner {
+    padding-left: 0;
+    padding-right: 0;
+    flex: 1;
+}
+.wrapper {
+    padding-top: 0px !important;
+    height: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+}

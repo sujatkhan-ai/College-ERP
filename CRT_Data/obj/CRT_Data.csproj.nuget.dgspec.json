@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\CR\\Chayanika latest\\Chayanika\\CRT_Data\\CRT_Data.csproj": {}
+  },
+  "projects": {
+    "F:\\CR\\Chayanika latest\\Chayanika\\CRT_Data\\CRT_Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\CR\\Chayanika latest\\Chayanika\\CRT_Data\\CRT_Data.csproj",
+        "projectName": "CRT_Data",
+        "projectPath": "F:\\CR\\Chayanika latest\\Chayanika\\CRT_Data\\CRT_Data.csproj",
+        "packagesPath": "C:\\Users\\ersuj\\.nuget\\packages\\",
+        "outputPath": "F:\\CR\\Chayanika latest\\Chayanika\\CRT_Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ersuj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\CR\\Chayanika latest\\Chayanika\\CRT_Entity\\CRT_Entity.csproj": {
+                "projectPath": "F:\\CR\\Chayanika latest\\Chayanika\\CRT_Entity\\CRT_Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Cuemon.Extensions.AspNetCore.Mvc.Formatters.Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\CR\\Chayanika latest\\Chayanika\\CRT_Entity\\CRT_Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\CR\\Chayanika latest\\Chayanika\\CRT_Entity\\CRT_Entity.csproj",
+        "projectName": "CRT_Entity",
+        "projectPath": "F:\\CR\\Chayanika latest\\Chayanika\\CRT_Entity\\CRT_Entity.csproj",
+        "packagesPath": "C:\\Users\\ersuj\\.nuget\\packages\\",
+        "outputPath": "F:\\CR\\Chayanika latest\\Chayanika\\CRT_Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ersuj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Cuemon.Extensions.AspNetCore.Mvc.Formatters.Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+D:\CORE\Chayanika\CRT_Entity\bin\Debug\net5.0\CRT_Entity.deps.json
+D:\CORE\Chayanika\CRT_Entity\bin\Debug\net5.0\CRT_Entity.dll
+D:\CORE\Chayanika\CRT_Entity\bin\Debug\net5.0\CRT_Entity.pdb
+D:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.csproj.AssemblyReference.cache
+D:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.AssemblyInfoInputs.cache
+D:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.AssemblyInfo.cs
+D:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.csproj.CoreCompileInputs.cache
+D:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.dll
+D:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\refint\CRT_Entity.dll
+D:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.pdb
+D:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\ref\CRT_Entity.dll
+E:\CORE\Chayanika\CRT_Entity\bin\Debug\net5.0\CRT_Entity.deps.json
+E:\CORE\Chayanika\CRT_Entity\bin\Debug\net5.0\CRT_Entity.dll
+E:\CORE\Chayanika\CRT_Entity\bin\Debug\net5.0\CRT_Entity.pdb
+E:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.csproj.AssemblyReference.cache
+E:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.AssemblyInfoInputs.cache
+E:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.AssemblyInfo.cs
+E:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.csproj.CoreCompileInputs.cache
+E:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.dll
+E:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.pdb
+E:\CORE\Chayanika\CRT_Entity\obj\Debug\net5.0\ref\CRT_Entity.dll
+E:\CORE\Chayanika\CRT_Entity\bin\Debug\net5.0\ref\CRT_Entity.dll
+F:\CR\Chayanika latest\Chayanika\CRT_Entity\bin\Debug\net5.0\CRT_Entity.deps.json
+F:\CR\Chayanika latest\Chayanika\CRT_Entity\bin\Debug\net5.0\CRT_Entity.dll
+F:\CR\Chayanika latest\Chayanika\CRT_Entity\bin\Debug\net5.0\ref\CRT_Entity.dll
+F:\CR\Chayanika latest\Chayanika\CRT_Entity\bin\Debug\net5.0\CRT_Entity.pdb
+F:\CR\Chayanika latest\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.csproj.AssemblyReference.cache
+F:\CR\Chayanika latest\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.GeneratedMSBuildEditorConfig.editorconfig
+F:\CR\Chayanika latest\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.AssemblyInfoInputs.cache
+F:\CR\Chayanika latest\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.AssemblyInfo.cs
+F:\CR\Chayanika latest\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.csproj.CoreCompileInputs.cache
+F:\CR\Chayanika latest\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.dll
+F:\CR\Chayanika latest\Chayanika\CRT_Entity\obj\Debug\net5.0\ref\CRT_Entity.dll
+F:\CR\Chayanika latest\Chayanika\CRT_Entity\obj\Debug\net5.0\CRT_Entity.pdb

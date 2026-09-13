@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "bt7jVuFVsg3yN9ytkGxRPUQ/VpicwMgTK5snfI32VM8sT7dys9gKmJxFmR7g5fmjz7uTM10Wj76LcH/ErhV5nQ==",
+  "success": true,
+  "projectFilePath": "F:\\CR\\Chayanika latest\\Chayanika\\CRT_Entity\\CRT_Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ersuj\\.nuget\\packages\\cuemon.aspnetcore\\6.0.0\\cuemon.aspnetcore.6.0.0.nupkg.sha512",
+    "C:\\Users\\ersuj\\.nuget\\packages\\cuemon.aspnetcore.mvc\\6.0.0\\cuemon.aspnetcore.mvc.6.0.0.nupkg.sha512",
+    "C:\\Users\\ersuj\\.nuget\\packages\\cuemon.core\\6.0.0\\cuemon.core.6.0.0.nupkg.sha512",
+    "C:\\Users\\ersuj\\.nuget\\packages\\cuemon.data.integrity\\6.0.0\\cuemon.data.integrity.6.0.0.nupkg.sha512",
+    "C:\\Users\\ersuj\\.nuget\\packages\\cuemon.diagnostics\\6.0.0\\cuemon.diagnostics.6.0.0.nupkg.sha512",
+    "C:\\Users\\ersuj\\.nuget\\packages\\cuemon.extensions.aspnetcore.mvc.formatters.newtonsoft.json\\6.0.0\\cuemon.extensions.aspnetcore.mvc.formatters.newtonsoft.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\ersuj\\.nuget\\packages\\cuemon.extensions.newtonsoft.json\\6.0.0\\cuemon.extensions.newtonsoft.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\ersuj\\.nuget\\packages\\cuemon.io\\6.0.0\\cuemon.io.6.0.0.nupkg.sha512",
+    "C:\\Users\\ersuj\\.nuget\\packages\\cuemon.security.cryptography\\6.0.0\\cuemon.security.cryptography.6.0.0.nupkg.sha512",
+    "C:\\Users\\ersuj\\.nuget\\packages\\cuemon.threading\\6.0.0\\cuemon.threading.6.0.0.nupkg.sha512",
+    "C:\\Users\\ersuj\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
